@@ -1,4 +1,4 @@
-# Projeto de Engenharia de Dados — Montadora de Veículos (Fictícia)
+# Projeto de Engenharia de Dados — Montadora de Veículos (Fictícia) - dash inativo migrando para o bigquery
 
 Este projeto prático simula o cenário de uma montadora de veículos fictícia, com foco na construção de um **Data Warehouse moderno**, utilizando tecnologias amplamente adotadas no mercado de dados.
 
