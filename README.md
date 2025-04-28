@@ -42,4 +42,4 @@ Dashboards que demonstram métricas relevantes para a operação da montadora, c
 
 ---
 
-**#EngenhariaDeDados #Airflow #dbt #Snowflake #DataWarehouse #PostgreSQL #LookerStudio #DataPipeline #DataEngineering**
+
